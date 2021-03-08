@@ -12,6 +12,8 @@ result – displays Results after finishing the quiz.
 answer – displays question’s answer .
 quiz – change question after select answer.
 
+##To run on your android device, download the apk file attached.
+
 ![Image 1](/assets/image1.png)
 ![Image 2](/assets/image2.png)
 
