@@ -29,15 +29,15 @@ class Result extends StatelessWidget {
           resultPhrase,
           style: TextStyle(
               color: Colors.blue,
-              fontSize: 30,
-              fontWeight: FontWeight.bold,
+              fontSize: 35,
+              fontWeight: FontWeight.normal,
               fontFamily: "Times New Roman"),
           textAlign: TextAlign.center,
         ),
         Text(
-          "Correct Answers are:\nΟ(logn)\nint arr[20]\nMerge Sort\nAll of the above\nΟ(n2)\nStack\nBinary Search\nResource allocation\nBoth A and B\nLinear search\n\n",
+          "Correct Answers are:\nΟ(logn)\nint arr[20];\nMerge Sort\nAll of the above\nΟ(n)\nStack\nBinary Search\nResource allocation\nBoth A and B\nLinear search\n\n",
           style: TextStyle(
-              color: Colors.greenAccent[400],
+              color: Colors.blueAccent[400],
               fontSize: 20,
               fontWeight: FontWeight.normal,
               fontFamily: "papyrus"),

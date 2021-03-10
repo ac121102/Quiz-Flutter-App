@@ -8,7 +8,10 @@ class Question extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Column(children: <Widget>[
-      Image(image: AssetImage("assets/image.jpeg")),
+      // Image(image: AssetImage("assets/image.jpeg")),
+      Container(
+        height: 150,
+      ),
       ElevatedButton(
           onPressed: () {},
           style: ElevatedButton.styleFrom(
